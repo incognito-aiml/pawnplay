@@ -1,0 +1,17 @@
+SOFTWARE REQUIREMENT SPECIFICATION
+
+Paws 'n' Play
+
+This website is mainly for virtual adoption of animals and to provide specific information of how to take care of your pets.
+This website is also available in various languages. Our organisation also does several volunteer programmes and vaccine drives.
+
+REQUIREMENT SPECIFICATIONS:
+-Home page contians the detailed information of all the pets that are up for adoption. Information of the recently conducted events and vaccine drives.
+-Must also contain general instructions on adopting a pet.
+-There should also be a detailed page of all the information of the pets that are up for adoption like its age, health condition, breed, gender,etc..
+-There should also be a profile of the volunteers to cheer them up and as a word of thanks to all of them.
+-There should be all the contact numbers and other ways to contact all the vets near you. There has te be another mode to contact for an online consultation.
+-There can be a shop page where you can shop for all the required items for your pets.
+
+
+
